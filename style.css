@@ -1,0 +1,34 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 30px;
+  color: blue;
+}
+
+#chart-area {
+  margin: 0 auto;
+}
+
+.map {
+  fill: black;
+  stroke: white;
+}
+
+.node {
+  fill: orange;
+}
+
+.link {
+  stroke: cyan;
+}
+
+label {
+  display: inline;
+}
